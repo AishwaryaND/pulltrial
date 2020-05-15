@@ -1,0 +1,289 @@
+Project created on Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createReactNativeProject | Thu May 14 2020, 12:08:48 GMT+0530 (India Standard Time) | Initialized all the DB's
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:37 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:37 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:39 GMT+0530 (India Standard Time) | ✔ Downloading template
+- Copying template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:39 GMT+0530 (India Standard Time) | ✔ Copying template
+- Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:39 GMT+0530 (India Standard Time) | ✔ Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:09:39 GMT+0530 (India Standard Time) | - Installing dependencies
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:10:42 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:07 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:07 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid" && npx react-native run-ios
+    - or -
+    • Open ReactAndroid/ios/ReactAndroid.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid" && npx react-native run-android
+
+
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:15 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:15 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+Success | CreatingAppActions | createNewAppOnServer | Thu May 14 2020, 12:11:17 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+Success | CreatingAppActions | createNewAppOnServer | Thu May 14 2020, 12:11:17 GMT+0530 (India Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Thu May 14 2020, 12:11:17 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | ImportExportConfig | exportAppConfiguration | Thu May 14 2020, 12:11:17 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:18 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:22 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Thu May 14 2020, 12:11:22 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:12:56 GMT+0530 (India Standard Time) | info Running jetifier to migrate libraries to AndroidX. You can disable it using "--no-jetifier" flag.
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:12:57 GMT+0530 (India Standard Time) | Jetifier found 994 file(s) to forward-jetify. Using 8 workers...
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:12:58 GMT+0530 (India Standard Time) | info Starting JS server...
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:12:58 GMT+0530 (India Standard Time) | info Installing the app...
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:13:05 GMT+0530 (India Standard Time) | 
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 6s
+
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:13:05 GMT+0530 (India Standard Time) | Error: Command failed: ./gradlew app:installDebug -PreactNativeDevServerPort=8081
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 6s
+
+    at checkExecSyncError (child_process.js:629:11)
+    at execFileSync (child_process.js:647:13)
+    at runOnAllDevices (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/runOnAllDevices.js:94:39)
+    at buildAndRun (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/index.js:179:41)
+    at then.result (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/index.js:133:12)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+ Error | IonicTopBar | runApp | Thu May 14 2020, 12:13:05 GMT+0530 (India Standard Time) | error Failed to install the app. Make sure you have the Android development environment set up: https://facebook.github.io/react-native/docs/getting-started.html#android-development-environment. Run CLI with --verbose flag for more details.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84634:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Thu May 14 2020, 12:13:05 GMT+0530 (India Standard Time) | Error: Preview on Emulator failed.
+ Info | BuilderEditor | saveFile | Thu May 14 2020, 12:14:40 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/android/local.properties
+ Info | BuilderEditor | saveFile | Thu May 14 2020, 12:14:41 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/android/local.properties
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:51 GMT+0530 (India Standard Time) | info Running jetifier to migrate libraries to AndroidX. You can disable it using "--no-jetifier" flag.
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:52 GMT+0530 (India Standard Time) | Jetifier found 994 file(s) to forward-jetify. Using 8 workers...
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:53 GMT+0530 (India Standard Time) | info JS server already running.
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:53 GMT+0530 (India Standard Time) | info Installing the app...
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:56 GMT+0530 (India Standard Time) | 
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 2s
+
+
+ Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:56 GMT+0530 (India Standard Time) | Error: Command failed: ./gradlew app:installDebug -PreactNativeDevServerPort=8081
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 2s
+
+    at checkExecSyncError (child_process.js:629:11)
+    at execFileSync (child_process.js:647:13)
+    at runOnAllDevices (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/runOnAllDevices.js:94:39)
+    at buildAndRun (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/index.js:179:41)
+    at then.result (/Users/aishwaryadodmani/Desktop/ReactAndroid/reactnative/ReactAndroid/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/index.js:133:12)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+ Error | IonicTopBar | runApp | Thu May 14 2020, 12:14:56 GMT+0530 (India Standard Time) | error Failed to install the app. Make sure you have the Android development environment set up: https://facebook.github.io/react-native/docs/getting-started.html#android-development-environment. Run CLI with --verbose flag for more details.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157333:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157290:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157330:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84634:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Thu May 14 2020, 12:14:56 GMT+0530 (India Standard Time) | Error: Preview on Emulator failed.
+ Info | projectHandler | loadProjectDatabase | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactAndroid
+ Info | datasourceDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Thu May 14 2020, 12:55:53 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | FontManager | loadInitialFiles | Thu May 14 2020, 12:56:05 GMT+0530 (India Standard Time) | Fonts assets folder created successfully
+ Info | projectHandler | loadProjectDatabase | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactAndroid
+ Info | datasourceDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Thu May 14 2020, 12:56:59 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactAndroid
+ Info | datasourceDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 10:57:51 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Fri May 15 2020, 10:58:19 GMT+0530 (India Standard Time) | Imported project configuration successfully
